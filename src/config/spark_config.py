@@ -50,4 +50,4 @@ def detener_spark_session(spark):
     """Detiene la sesión de Spark"""
     spark.stop()
     print("🔴 Sesión de Spark detenida")
-    
+    print("🔴 Sesión de Spark detenida")
